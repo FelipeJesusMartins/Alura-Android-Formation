@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Viagens</string>
+    <string name="activity_packages_list_especiais">Especiais</string>
+    <string name="activity_packages_list_country">Brasil</string>
+    <string name="activity_packages_list_banner_initial">Banner inicial dos pacotes</string>
+    <string name="final_price">Preço final:</string>
+    <string name="make_payment">REALIZAR PAGAMENTO</string>
+    <string name="package_image">Imagem do pacote</string>
+    <string name="card_number_mask">abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
+    <string name="purchase_summary_compliment">Parabéns!</string>
+    <string name="purchase_summary_image">Imagem do local</string>
+    <string name="purchase_summary_background_color">cor do painel de fundo</string>
+    <string name="purchase_summary_check_summary">Confira o resumo da compra:</string>
+    <string name="purchase_summary_fullfilled">Compra realizada com sucesso :)</string>
+    <string name="activity_payment_banner_info">Digite as informações do cartão de crédito que você deseja usar para o pagamento</string>
+    <string name="activity_payment_purchase_price">Valor da compra:</string>
+    <string name="activity_payment_card_number">Número do cartão</string>
+    <string name="activity_payment_card_month">MM</string>
+    <string name="activity_payment_card_year">AA</string>
+    <string name="activity_payment_card_buyer_number">CVC</string>
+    <string name="activity_payment_card_name">Nome no cartão</string>
+    <string name="activity_payment_finish_payment">Finalizar compra</string>
+</resources>

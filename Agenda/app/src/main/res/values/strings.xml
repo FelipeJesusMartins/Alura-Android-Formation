@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">Agenda</string>
+    <string name="Title" translatable="false">Novo aluno</string>
+    <string name="form_students_SaveStudents" translatable="false">Salvar o aluno</string>
+    <string name="form_register_full_name" translatable="false">Nome Completo</string>
+    <string name="form_register_cellphone" translatable="false">Telefone</string>
+    <string name="form_register_email" translatable="false">E-mail</string>
+    <string name="list_student_fab_image_description" translatable="false">Floating action button to add new Student</string>
+    <string name="list_students_menu_remove" translatable="false">Remover</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="cadmium_red">#FF595E</color>
+    <color name="sunglow">#FFCA3A</color>
+    <color name="yellow_green">#8AC926</color>
+    <color name="yellow_green_variant">#517517</color>
+    <color name="green_blue_crayola">#1982C4</color>
+    <color name="royal_purple">#00BE00</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

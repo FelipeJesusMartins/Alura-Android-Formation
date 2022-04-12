@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="persian_green">#2A9D8F</color>
+    <color name="charcoal">#264653</color>
+    <color name="orange_yellow_crayola">#E9C46A</color>
+    <color name="sandy_brown">#F4A261</color>
+    <color name="burnt_sienna">#E76F51</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#bcb8b1</color>
+</resources>
